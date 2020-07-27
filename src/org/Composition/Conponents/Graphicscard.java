@@ -55,6 +55,4 @@ public class Graphicscard
 	{
 		this.memory = memory;
 	}
-	
-	
 }

@@ -12,8 +12,6 @@ public class Laptop
 	private Processor processor;
 	private Graphicscard graphicsCard;
 	
-	
-	
 	public Laptop() 
 	{
 		this.screen = 15.6f;
@@ -23,8 +21,6 @@ public class Laptop
 		this.processor = new Processor();
 		this.graphicsCard = new Graphicscard();
 	}
-
-
 
 	public Laptop(float screen, String ram, int hardDrive, String keyboard, Processor processor,
 			Graphicscard graphicsCard) 
@@ -36,9 +32,7 @@ public class Laptop
 		this.processor = processor;
 		this.graphicsCard = graphicsCard;
 	}
-
-
-
+	
 	@Override
 	public String toString() 
 	{
@@ -105,6 +99,4 @@ public class Laptop
 	{
 		this.graphicsCard = graphicsCard;
 	}
-	
-	
 }
