@@ -1,4 +1,4 @@
-package org.Composition.Conponents;
+package org.Composition.Components;
 
 public class Graphicscard 
 {

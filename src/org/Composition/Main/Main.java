@@ -1,7 +1,7 @@
 package org.Composition.Main;
 
-import org.Composition.Conponents.Graphicscard;
-import org.Composition.Conponents.Processor;
+import org.Composition.Components.Graphicscard;
+import org.Composition.Components.Processor;
 import org.Composition.Laptop.Laptop;
 
 public class Main 

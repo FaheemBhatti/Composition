@@ -1,7 +1,7 @@
 package org.Composition.Laptop;
 
-import org.Composition.Conponents.Graphicscard;
-import org.Composition.Conponents.Processor;
+import org.Composition.Components.Graphicscard;
+import org.Composition.Components.Processor;
 
 public class Laptop 
 {
